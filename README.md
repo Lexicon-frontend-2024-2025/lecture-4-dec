@@ -53,4 +53,4 @@ Handledning sker som vanligt i Teams. Ställ era frågor i handledningskanalen e
   [GitHub-repo: CSS Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
 
 - **E-learning:**  
-  [Pluralsight: CSS: Animation Fundamentals](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
+  [Pluralsight: CSS: Fonts & interactions](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/fb7fa961-e767-4080-b678-540d2ddb6d78/d2c922b9-ab51-4927-8329-95a47b92a9a7)
